@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/../BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counter.iml" filepath="$PROJECT_DIR$/Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Heritage/Heritage.iml" filepath="$PROJECT_DIR$/../Heritage/Heritage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IMC/IMC.iml" filepath="$PROJECT_DIR$/../IMC/IMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NoOdd/NoOdd.iml" filepath="$PROJECT_DIR$/../NoOdd/NoOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TwoPoints/TwoPoints.iml" filepath="$PROJECT_DIR$/../TwoPoints/TwoPoints.iml" />
+    </modules>
+  </component>
+</project>
