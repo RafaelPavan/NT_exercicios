@@ -11,7 +11,6 @@ public class ToyMoneyChange {
 
         System.out.println("O valor do brinquedo é de = R$ " + account);
 
-
         System.out.println("Valor pago: R$ " + formatter.format(number));
 
         System.out.printf("%s", calcChange(account, number));
@@ -40,7 +39,7 @@ public class ToyMoneyChange {
             while (vlr != 0){
                 ct = vlr / bankNote[i];
                 if (ct !=0) {
-                    rest = rest + (ct + "nota(s) de R$ " + bankNote[i] + "\n");
+                    rest = rest + (ct + " nota(s) de R$ " + bankNote[i] + "\n");
                     vlr = vlr % bankNote[i];
                 }
                 i = i + 1;
